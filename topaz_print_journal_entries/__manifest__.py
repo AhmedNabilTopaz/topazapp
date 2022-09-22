@@ -21,7 +21,7 @@
 """,
     'price': 000,
     'currency': 'EUR',
-    'author': 'BrowseInfo',
+    'author': 'Topaz',
     'website': 'https://www.topazsmart.com',
     'depends': ['base','account'],
     'data': [
